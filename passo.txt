@@ -1,0 +1,8 @@
+https://www.youtube.com/watch?v=tWHXaSC2T_s&t=1218s
+
+1)Comando "git init" no terminal;
+2)Criar pastas "backend" e "frontend";
+3)Criar arquivos app.py, db.py, models.py. routes.py, ... na pasta "backend";
+4)Comando "pip -m venv venv" no diretorio "backend"; #INSTALA O VIRTUAL ENVIRONMENT
+5)Comando "./venv/Scripts/activate" no diretório "backend"; #ATIVA O VIRTUAL ENVIRONMENT
+6)Instalação de pacotes: Comando "pip install flask flask-sqlalchemy flask-cors"; 
